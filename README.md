@@ -21,5 +21,6 @@ Your goal is to determine which combination of prompting technique + platform pr
 5.User experience
 
 OUTPUT:
+[PE_EX2_Revanth.pdf](https://github.com/user-attachments/files/28040395/PE_EX2_Revanth.pdf)
 
 RESULT:
