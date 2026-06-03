@@ -24,3 +24,4 @@ OUTPUT:
 [PE_EX2_Revanth.pdf](https://github.com/user-attachments/files/28040395/PE_EX2_Revanth.pdf)
 
 RESULT:
+To evaluate and compare the effectiveness of prompting techniques (zero-shot, few-shot, chain-of-thought, role-based) across different AI platforms (e.g., ChatGPT, Gemini, Claude, Copilot) sucessfully completed
